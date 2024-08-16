@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=devops,ansible,linux,docker,terraform,python,jenkins,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,ansible,linux,docker,terraform,python,jenkins,kubernetes&perline=5)](https://skillicons.dev)
 
 ![Fahad Mughal GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadmughal5415&show_icons=true&theme=dark)
 
