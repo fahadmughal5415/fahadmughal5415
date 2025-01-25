@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Fahad Mughal</h1>
 
-- 🔭 I’m currently working on DevOps
-- 🌱 I’m currently learning DevOps latest tools
-- 💬 Ask me anything about DevOps 
+- 🔭 I’m currently working as a Python Developer
+- 🌱 I’m currently learning Python latest tools
+- 💬 Ask me anything about Python 
 - 📫 How to reach me: fahadmughal5415@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
