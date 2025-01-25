@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python, django, flask, aws, web development, machine learning, api development&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python, django, flask, aws&perline=5)](https://skillicons.dev)
 
 ![Fahad Mughal GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadmughal5415&show_icons=true&theme=dark)
 
