@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,django,flask,git,ml&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,django,flask,git,linux,aiscript,discord,notion,postman&perline=5)](https://skillicons.dev)
 
 ![Fahad Mughal GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadmughal5415&show_icons=true&theme=dark)
 
