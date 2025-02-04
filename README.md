@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Fahad Mughal</h1>
 
-- 🔭 I’m currently working as a Python Developer
+- 🔭 I’m currently working as a Django Developer
 - 🌱 I’m currently learning Python latest tools
 - 💬 Ask me anything about Python 
 - 📫 How to reach me: fahadmughal5415@gmail.com
