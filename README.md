@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Fahad Mughal</h1>
 
-- 🔭 I’m currently working as a Django Developer
-- 🌱 I’m currently learning Python latest tools
-- 💬 Ask me anything about Python 
+- 🔭 I’m currently working as a Flutter Developer
+- 🌱 I’m currently learning AI latest tools
+- 💬 Ask me anything about Flutter 
 - 📫 How to reach me: fahadmughal5415@gmail.com
 - ⚡ Fun fact: I'm comming to teen
   
@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,django,flask,git,linux,aiscript,discord,notion,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,aws,supabase,firebase,git,linux,aiscript,discord,notion,postman&perline=5)](https://skillicons.dev)
 
 ![Fahad Mughal GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadmughal5415&show_icons=true&theme=dark)
 
